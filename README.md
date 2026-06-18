@@ -1,2 +1,2 @@
 # Customer-Review-Analysis
-Analyzed over 10,000 customer reviews to identify sentiment trends and evaluate brand perception. Performed data cleaning, preprocessing, and analysis to extract actionable insights from customer feedback. Presented findings through structured reports to support business decision-making and brand evaluation.
+Conducted sentiment analysis on 10,000+ customer reviews to uncover customer perception trends and support brand evaluation. Applied data cleaning and analytical techniques to transform unstructured text data into meaningful business insights.
