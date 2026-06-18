@@ -27,7 +27,7 @@ This project analyzes over 10,000 customer reviews to evaluate brand perception 
 
 ## Model Performance Comparison
 
-![Performance](images/model_comparison.png)
+<img src="images/model_comparison.png" width="500">
 
 ## ROC Curve Comparison
 
