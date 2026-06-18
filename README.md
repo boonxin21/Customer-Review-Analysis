@@ -1,22 +1,47 @@
-# Customer Review Analysis
+# Customer Review Analysis for Brand Insight
 
 ## Project Overview
 
-Analyzed over 10,000 customer reviews to evaluate brand perception and identify sentiment trends.
+This project analyzes over 10,000 customer reviews to evaluate brand perception and identify sentiment trends using Natural Language Processing (NLP) and Machine Learning techniques.
 
 ## Objectives
 
-- Clean and preprocess customer review data
 - Analyze customer sentiment
-- Extract actionable business insights
+- Evaluate brand reputation
+- Compare machine learning models
+- Generate business insights from customer feedback
 
-## Skills Used
+## Technologies Used
+
+- Python
+- NLP
+- TF-IDF
+- Naive Bayes
+- Random Forest
+- XGBoost
+- LSTM
+
+## Proposed Framework
+
+![Framework](images/proposed_framework.png)
+
+## Model Performance Comparison
+
+![Performance](images/model_comparison.png)
+
+## ROC Curve Comparison
+
+![ROC](images/roc_curve.png)
+
+## Key Skills Demonstrated
 
 - Data Cleaning
-- Text Analysis
+- Feature Engineering
 - Sentiment Analysis
-- Reporting
+- Machine Learning
+- Data Visualization
+- Business Reporting
 
 ## Outcome
 
-Generated insights on customer feedback patterns and brand perception to support business evaluation and decision-making.
+Successfully developed a sentiment analysis model capable of predicting customer sentiment and supporting brand evaluation through data-driven insights.
