@@ -31,7 +31,7 @@ This project analyzes over 10,000 customer reviews to evaluate brand perception 
 
 ## ROC Curve Comparison
 
-![ROC](images/roc_curves.png)
+<img src="images/roc_curves.png" width="500">
 
 ## Key Skills Demonstrated
 
